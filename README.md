@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on github automation.
+- 🔭 I’m currently working on automation.
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on python scripts
 - 🤔 I’m looking for help with 
