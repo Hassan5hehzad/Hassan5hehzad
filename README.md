@@ -15,4 +15,3 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about web development, devops
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hassan-shehzad-17552b198/)
-- 😄 Pronouns: he/him
